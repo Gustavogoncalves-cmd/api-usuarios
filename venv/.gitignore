@@ -1,5 +1,12 @@
+# Ambiente virtual
 venv/
+
+# Cache do Python
 __pycache__/
 *.pyc
+
+# Banco local
 app.db
-.env
+
+# VS Code
+.vscode/
