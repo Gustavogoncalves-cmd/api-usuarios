@@ -43,7 +43,7 @@ Copiar código
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/api-usuarios.git
+git clone https://github.com/Gustavogoncalves-cmd/api-usuarios.git
 cd api-usuarios
 2️⃣ Criar e ativar ambiente virtual
 bash
